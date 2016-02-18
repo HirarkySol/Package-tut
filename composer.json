@@ -1,0 +1,13 @@
+{
+    "name": "hirarky/packagetut",
+    "description": "This is the Dev tutprial purpose based package.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lokesh Kumawat",
+            "email": "lokeshnit.2008@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
