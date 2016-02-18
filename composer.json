@@ -8,6 +8,6 @@
             "email": "lokeshnit.2008@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
